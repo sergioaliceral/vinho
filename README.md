@@ -123,13 +123,13 @@ Serviço Cliente indisponível.
 ## ✅ Status do Projeto
 
 ✔️ Finalizado e pronto para deploy.  
-📂 Repositório: [https://github.com/seu-usuario/vinho](https://github.com/sergioaliceral/vinho)
+📂 Repositório: [https://github.com/sergioaliceral/vinho](https://github.com/sergioaliceral/vinho)
 
 ---
 
 ## ✍️ Autor
 
-Sérgio — Desenvolvedor Backend & Trader  
+Sérgio — Desenvolvedor Java Backend  
 Contato: [sergio@aliceral.com](mailto:sergio@aliceral.com)
 
 ---
