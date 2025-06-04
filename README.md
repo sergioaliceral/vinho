@@ -123,7 +123,7 @@ Serviço Cliente indisponível.
 ## ✅ Status do Projeto
 
 ✔️ Finalizado e pronto para deploy.  
-📂 Repositório: [https://github.com/seu-usuario/vinho](https://github.com/seu-usuario/vinho)
+📂 Repositório: [https://github.com/seu-usuario/vinho](https://github.com/sergioaliceral/vinho)
 
 ---
 
