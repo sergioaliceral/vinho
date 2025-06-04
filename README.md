@@ -27,7 +27,7 @@ Este projeto é um microserviço desenvolvido em **Spring Boot 3.2.5** que conso
 
 ```bash
 # 1. Clone o projeto
-git clone https://github.com/seu-usuario/vinho.git
+git clone https://github.com/sergioaliceral/vinho.git
 cd vinho
 
 # 2. Compile e execute
