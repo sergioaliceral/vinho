@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: vinho
+
+feign:
+  clientes:
+    url: https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com
+  vinhos:
+    url: https://rgr3viiqdl8sikgv.public.blob.vercel-storage.com
